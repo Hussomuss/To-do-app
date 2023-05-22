@@ -34,7 +34,7 @@ function AddTask() {
 
       <Modal modalOpen={modalOpen} setModalOpen={setModalOpen}>
         <form onSubmit={handleSubmitNewTodo}>
-          <h3 className="font-bold text-lg text-yellow-600">Add New Task</h3>
+          <h3 className="font-bold text-lg text-purple-600">Add New Task</h3>
           <div className="modal-action">
             <input
               value={newTextValue}

@@ -2,11 +2,7 @@
   "tasks": [
     {
       "id": "1",
-      "text": "buy milk and oranges"
-    },
-    {
-      "id": "2",
-      "text": "buy biscuits"
+      "text": "Hey"
     },
     {
       "id": "3",
@@ -18,7 +14,7 @@
     },
     {
       "id": "5",
-      "text": "Go eat more"
+      "text": "Stop eating"
     },
     {
       "id": "6",
